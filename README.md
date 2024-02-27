@@ -11,7 +11,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=SayedRafiadHossan&theme=flat&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+!['You have to believe in yourself when no one else does.'](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SayedRafiadHossan&limit=5&theme=dracula&combine_all_yearly_contributions=true)
