@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **Python, MySQL, AWS**
  
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/SayedRafiadHossan/SayedRafiadHossan/tree/main)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/SayedRafiadHossan)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
