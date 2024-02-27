@@ -9,6 +9,8 @@
 
 <img src="https://raw.githubusercontent.com/SayedRafiadHossan/SayedRafiadHossan/output/snake.svg" alt="Snake animation" />
 
+###
+
 # 📊 GitHub Stats:
 <div align="center">
   <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWgzazVkNGJtNGx1N2thaHF1aTBmZHA3ZTBjNGY5M2UyYWF6OWs5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AHj0lQstZ9I9W/giphy.gif"  />
